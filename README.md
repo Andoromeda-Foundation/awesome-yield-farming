@@ -21,6 +21,13 @@ A curated list of yield farming services and tools for software developers
 - https://pickle.finance/
 - 2020-09-10
 
+## yfbeta
+https://yfbeta.finance
+
+
+## Harvest
+https://harvest.finance/
+
 ## BEE2 🐝
 - https://bee2.finance/
 - 2020-09-09 09:00:00(OTC)
