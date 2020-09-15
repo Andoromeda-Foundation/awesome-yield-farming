@@ -13,6 +13,10 @@ A curated list of yield farming services and tools for software developers
 - https://sushiswapclassic.org/
 - 2020-09-08
 
+## Sake🍶
+- https://sakeswap.finance/
+- 2020-09-08
+
 ## Pickle🥒
 - https://pickle.finance/
 - 2020-09-10
