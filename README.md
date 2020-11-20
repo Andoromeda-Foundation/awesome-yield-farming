@@ -38,3 +38,7 @@ https://harvest.finance/
 ## Boba🥤
 - https://bobaswap.io/
 - 2020-09-14
+
+## Pancakeswap 
+- https://pancakeswap.finance/
+- 2020-11-20
